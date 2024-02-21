@@ -1,0 +1,77 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  font-size: 80px;
+}
+h3{
+  padding-left: 20px;
+  margin-bottom: 5px;
+}
+
+.project-list{
+  background-color: rgb(69, 90, 91);
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between; /* Space out items */
+  align-items: flex-start; /* Align items to the start */
+}
+
+.text {
+  /* Additional styling for text */
+  width: 70%; /* Adjust as needed */
+}
+
+.links {
+  /* Additional styling for links */
+}
+
+
+.button {
+  /* background: "none";
+  border: "none"; */
+  /* color: "inherit"; */
+  font-family: "hack";
+  cursor: "pointer";
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 40px;
+  /* background-color: transparent;
+  border: none; */
+  width: auto;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+.button:hover {
+  background-color: #191e22;
+}
+
+@media screen and (max-width: 600px) {
+  .flex-container {
+    flex-direction: column; /* Change to column layout on small screens */
+    align-items: stretch; /* Stretch items to fill container width */
+  }
+  h1{
+    font-size: 50px;
+  }
+  .text {
+    width: 100%; /* Take up full width on small screens */
+  }
+
+  .links {
+    margin-top: 10px; /* Add some spacing between text and links */
+  }
+}

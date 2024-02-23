@@ -3,7 +3,6 @@ import { useState } from 'react';
 
 const DropInText = () => {
   const [isVisible, setIsVisible] = useState(true);
-
   return (
     <div className={isVisible ? 'drop-in' : ''}>
       <h1>Hello <br/>I'm <br/>Dhruv Gupta</h1>

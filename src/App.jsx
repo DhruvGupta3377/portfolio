@@ -14,7 +14,7 @@ function App() {
   const ref = useRef();
   return (
     <>
-      <Parallax pages={6} className="mainparallax" ref = {ref}>
+    <Parallax pages={6} className="mainparallax" ref = {ref}>
         <ParallaxLayer offset = {0} speed={.4} factor = {2}className="b">
         <div className="wrapper">
         <div className="flex-container">
@@ -24,8 +24,8 @@ function App() {
               <a href="https://twitter.com/dhruvgupta3377" target="_blank">Twitter</a>&nbsp;&nbsp;
               <a href="https://www.linkedin.com/in/dhruv-gupta-465391227/" target="_blank">LinkedIn</a>&nbsp;&nbsp;
               <a href="" target="_blank">Resume</a>&nbsp;&nbsp;
-            </div>
-            <div className="links">
+        </div>
+          <div className="links">
               <div className="project-list">
                 <h3>Selected Projects</h3>
                 <div className="button" onClick={() => ref.current.scrollTo(1)}>Codex</div>

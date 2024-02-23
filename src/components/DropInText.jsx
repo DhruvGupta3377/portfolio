@@ -6,9 +6,12 @@ const DropInText = () => {
 
   return (
     <div className={isVisible ? 'drop-in' : ''}>
-      <h1>I'm <br/>Dhruv Gupta</h1>
-      <h4>Loren</h4>
-    </div>
+      <h1>Hello <br/>I'm <br/>Dhruv Gupta</h1>
+      <div className = 'aboutme'>
+      I am a third year student at Thapar Institute of Engineering and Technology.<br/>
+      I enjoy working of fullstack applications, windows application and machine learning projects.<br/> 
+      </div>
+      </div>
   );
 };
 

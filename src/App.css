@@ -1,6 +1,5 @@
 #root {
   margin: 0 auto;
-  padding: 2rem;
 }
 
 
@@ -8,6 +7,7 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
   font-size: 80px;
+  padding: 5px;
 }
 h3{
   padding-left: 20px;
@@ -54,9 +54,41 @@ h3{
   transition: background-color 0.3s ease;
 }
 
+.wrapper{
+  /* width: 50vmin; */
+  height: 100vmax;
+}
 
 .button:hover {
   background-color: #191e22;
+}
+.b{
+  
+  /* background-color: #2d322d; */
+}
+
+.b1{
+  /* background-color: #343934 ; */
+}
+.b2{
+  /* background-color: #3b403b; */
+}
+.b3{
+  /* background-color: #414641 ; */
+}
+
+.mainparallax{
+  padding: auto;
+}
+
+.content{
+  padding-top: 30px;
+  font-size: 20px;
+}
+
+.aboutme{
+  font-size: 20px;
+  padding-bottom: 10px;
 }
 
 @media screen and (max-width: 600px) {

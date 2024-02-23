@@ -48,12 +48,12 @@ h3{
   /* background: "none";
   border: "none"; */
   /* color: "inherit"; */
-  font-family: "hack";
-  cursor: "pointer";
+  cursor: pointer;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
   padding-right: 40px;
+  font-family: JetBrains Mono;
   /* background-color: transparent;
   border: none; */
   width: auto;

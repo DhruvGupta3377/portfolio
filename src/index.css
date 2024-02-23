@@ -26,6 +26,7 @@ body {
   /* margin: 5; */
   /* padding: 10px; */
   overflow: hidden;
+  max-width: 100%;
 }
 
 button {

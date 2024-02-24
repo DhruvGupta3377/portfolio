@@ -5,6 +5,11 @@ const Codex = () => {
     <div className="content">
       <i>
         <h4>Technologies Used: Tauri, Rust, ReactJS, JavaScript, HTML, CSS</h4>
+        <h5>
+          <a href="https://github.com/DhruvGupta3377/codex" target="_blank">
+            SourceCode
+          </a>
+        </h5>
       </i>
       <ul>
         <li>

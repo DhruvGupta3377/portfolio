@@ -5,6 +5,14 @@ const Hostel = () => {
     <div className="content">
       <i>
         <h4>Technologies Used: Python, Django, MySql, JavaScript, HTML, CSS</h4>
+        <h5>
+          <a
+            href="https://github.com/DhruvGupta3377/Online-hostel-allotment-system"
+            target="_blank"
+          >
+            SourceCode
+          </a>
+        </h5>
       </i>
       <ul>
         <li>

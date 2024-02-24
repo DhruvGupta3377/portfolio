@@ -5,6 +5,15 @@ const HomeGaurd = () => {
     <div className="content">
       <i>
         <h4>Technologies Used: Python, Scikit-learn, Matplotlib, Seaborn</h4>
+
+        <h5>
+          <a
+            href="https://www.kaggle.com/code/dhruvgupta37/homegaurd"
+            target="_blank"
+          >
+            SourceCode
+          </a>
+        </h5>
       </i>
       <ul>
         <li>

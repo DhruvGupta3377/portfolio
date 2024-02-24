@@ -8,6 +8,11 @@ const RapidCheckout = () => {
           Technologies Used: Python, Django Rest Framework, ReactJS, JavaScript,
           MongoDB, SQLite, HTML, CSS
         </h4>
+        <h5>
+          <a href="https://github.com/DhruvGupta3377/codex" target="_blank">
+            SourceCode
+          </a>
+        </h5>
       </i>
       <ul>
         <li>

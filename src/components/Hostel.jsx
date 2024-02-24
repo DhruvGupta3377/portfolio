@@ -19,7 +19,7 @@ const Hostel = () => {
           Developed a solution for making the hostel allotment process easier
           for both students and hostel staff.
         </li>
-        <li>Hoatel Caretaker can easily view, edit, add room information</li>
+        <li>Hoatel Caretaker can easily view, edit, add room information.</li>
         <li>
           Students need to authenticate themselves before selecting the room.
         </li>

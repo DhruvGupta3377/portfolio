@@ -12,10 +12,10 @@ const Korner = () => {
         </h5>
       </i>
       <ul>
-        <li>Implemented a Linux HotCorner like utility for windows</li>
-        <li>Going to the top left corner triggers Task View for windows</li>
+        <li>Implemented a Linux HotCorner like utility for windows.</li>
+        <li>Going to the top left corner triggers Task View for windows.</li>
         <li>
-          Shortcuts can be changed by adding different keys in the Source code
+          Shortcuts can be changed by adding different keys in the Source code.
         </li>
       </ul>
     </div>

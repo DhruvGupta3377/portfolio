@@ -35,7 +35,7 @@ const RapidCheckout = () => {
           The admin dashboard enables store owners to manage inventory
           seamlessly.
         </li>
-        <li>JWT tokens are used for easy authorization and authentication</li>
+        <li>JWT tokens are used for easy authorization and authentication.</li>
       </ul>
     </div>
   );

@@ -40,7 +40,7 @@ function App() {
             LinkedIn
           </a>
           &nbsp;&nbsp;
-          <a href="https://docs.google.com/document/d/1P-n5_Pwe0wSc54Ki6Z1WpNAIBEuD9ylDlwSUJLQ3nSQ/edit?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/1vx1evdpVeItyvJ2IGBrJsn1JqDiyPM4Q/view?usp=sharing" target="_blank">
             Resume
           </a>
           &nbsp;&nbsp;
